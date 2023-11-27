@@ -3,7 +3,7 @@ import Productcard from "@/components/Productcard"
 import { StaticImageData } from "next/image"
 import Footer from "@/views/Footer"
 
-
+dadadasdada
 const getProductsByCategory = (category: string) => {
     return Products.filter((product) => product.category === category)
 }
